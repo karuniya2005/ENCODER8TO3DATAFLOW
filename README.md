@@ -1,4 +1,7 @@
-### ENCODER 8TO3 DATAFLOW Modelling
+# EX NO:5
+<P align='center'> <b>ENCODER 8TO3 DATAFLOW Modelling</b>
+
+**DATE:**
 
 **AIM:**
 
