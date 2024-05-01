@@ -52,8 +52,9 @@ Figure 02  Encoder 8 * 3
 
 **PROGRAM**
 
-![Screenshot 2024-04-27 115000]
-(https://github.com/karuniya2005/ENCODER8TO3DATAFLOW/assets/161425769/96dcc914-199a-4b54-866e-d0d27b4a660e)
+![Screenshot 2024-04-27 115000](https://github.com/karuniya2005/ENCODER8TO3DATAFLOW/assets/161425769/6b4ab7a6-cffa-46c0-9de1-2e0f350ab874)
+
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
